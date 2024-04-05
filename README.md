@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name's Trần Mạnh Cường<br>Studying Computer Technology Engineering at HCMUTE <br> Email: acuongsh@gmail.com
+My name's Trần Mạnh Cường<br>Studying Computer Technology Engineering at HCMUTE <br> Email: acuongsh@gmail.com 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tmc1502) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tmc.1502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tmc1502) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@tmc1502) 
